@@ -26,7 +26,7 @@ namespace SumoGH
             get
             {
                 //Return a short string describing the purpose of this GHA library.
-                return "";
+                return "A parser and visualizer of SUMO dataset in Grasshopper";
             }
         }
         public override Guid Id
@@ -42,7 +42,7 @@ namespace SumoGH
             get
             {
                 //Return a string identifying you or your company.
-                return "";
+                return "yubozzz";
             }
         }
         public override string AuthorContact

@@ -56,6 +56,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agent.cs" />
+    <Compile Include="ParseAgent.cs" />
+    <Compile Include="TimeParser.cs" />
     <Compile Include="SumoGHComponent.cs" />
     <Compile Include="SumoGHInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
